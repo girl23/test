@@ -13,6 +13,7 @@
 		2BF762351EA5F33700CA9FD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762331EA5F33700CA9FD3 /* Main.storyboard */; };
 		2BF762371EA5F33700CA9FD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762361EA5F33700CA9FD3 /* Assets.xcassets */; };
 		2BF7623A1EA5F33700CA9FD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762381EA5F33700CA9FD3 /* LaunchScreen.storyboard */; };
+		2BF762421EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762411EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2BF762361EA5F33700CA9FD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BF762391EA5F33700CA9FD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BF7623B1EA5F33700CA9FD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BF762411EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "IOS应用UI测试.rtfd"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		2BF7621E1EA5F33700CA9FD3 = {
 			isa = PBXGroup;
 			children = (
+				2BF762411EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd */,
 				2BF762291EA5F33700CA9FD3 /* Hello */,
 				2BF762281EA5F33700CA9FD3 /* Products */,
 			);
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BF7623A1EA5F33700CA9FD3 /* LaunchScreen.storyboard in Resources */,
+				2BF762421EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd in Resources */,
 				2BF762371EA5F33700CA9FD3 /* Assets.xcassets in Resources */,
 				2BF762351EA5F33700CA9FD3 /* Main.storyboard in Resources */,
 			);
@@ -310,6 +314,7 @@
 				2BF762401EA5F33700CA9FD3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
