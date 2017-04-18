@@ -14,6 +14,15 @@
 		2BF762371EA5F33700CA9FD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762361EA5F33700CA9FD3 /* Assets.xcassets */; };
 		2BF7623A1EA5F33700CA9FD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762381EA5F33700CA9FD3 /* LaunchScreen.storyboard */; };
 		2BF762421EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762411EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd */; };
+		2BF762441EA5FBC000CA9FD3 /* 插件使用二.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762431EA5FBC000CA9FD3 /* 插件使用二.rtfd */; };
+		2BF762461EA5FBD500CA9FD3 /* 插件使用.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762451EA5FBD500CA9FD3 /* 插件使用.rtfd */; };
+		2BF762481EA5FBDB00CA9FD3 /* cocoapods基本使用.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762471EA5FBDB00CA9FD3 /* cocoapods基本使用.rtf */; };
+		2BF7624A1EA5FC1300CA9FD3 /* PCH头文件.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762491EA5FC1300CA9FD3 /* PCH头文件.rtfd */; };
+		2BF7624C1EA5FC1700CA9FD3 /* ios 预处理.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF7624B1EA5FC1700CA9FD3 /* ios 预处理.rtfd */; };
+		2BF7624E1EA5FC1B00CA9FD3 /* 深复制和浅复制.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF7624D1EA5FC1B00CA9FD3 /* 深复制和浅复制.rtfd */; };
+		2BF762501EA5FC2400CA9FD3 /* bootStrap10分钟快速搭建H5页面（1）.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF7624F1EA5FC2400CA9FD3 /* bootStrap10分钟快速搭建H5页面（1）.rtfd */; };
+		2BF762521EA5FC4700CA9FD3 /* 单元测试.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762511EA5FC4700CA9FD3 /* 单元测试.rtfd */; };
+		2BF762541EA5FC5D00CA9FD3 /* git使用.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 2BF762531EA5FC5D00CA9FD3 /* git使用.rtfd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +37,15 @@
 		2BF762391EA5F33700CA9FD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BF7623B1EA5F33700CA9FD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2BF762411EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "IOS应用UI测试.rtfd"; sourceTree = "<group>"; };
+		2BF762431EA5FBC000CA9FD3 /* 插件使用二.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "插件使用二.rtfd"; sourceTree = "<group>"; };
+		2BF762451EA5FBD500CA9FD3 /* 插件使用.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "插件使用.rtfd"; sourceTree = "<group>"; };
+		2BF762471EA5FBDB00CA9FD3 /* cocoapods基本使用.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "cocoapods基本使用.rtf"; sourceTree = "<group>"; };
+		2BF762491EA5FC1300CA9FD3 /* PCH头文件.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "PCH头文件.rtfd"; sourceTree = "<group>"; };
+		2BF7624B1EA5FC1700CA9FD3 /* ios 预处理.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "ios 预处理.rtfd"; sourceTree = "<group>"; };
+		2BF7624D1EA5FC1B00CA9FD3 /* 深复制和浅复制.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "深复制和浅复制.rtfd"; sourceTree = "<group>"; };
+		2BF7624F1EA5FC2400CA9FD3 /* bootStrap10分钟快速搭建H5页面（1）.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "bootStrap10分钟快速搭建H5页面（1）.rtfd"; sourceTree = "<group>"; };
+		2BF762511EA5FC4700CA9FD3 /* 单元测试.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "单元测试.rtfd"; sourceTree = "<group>"; };
+		2BF762531EA5FC5D00CA9FD3 /* git使用.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "git使用.rtfd"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +62,15 @@
 		2BF7621E1EA5F33700CA9FD3 = {
 			isa = PBXGroup;
 			children = (
+				2BF7624F1EA5FC2400CA9FD3 /* bootStrap10分钟快速搭建H5页面（1）.rtfd */,
+				2BF7624D1EA5FC1B00CA9FD3 /* 深复制和浅复制.rtfd */,
+				2BF762531EA5FC5D00CA9FD3 /* git使用.rtfd */,
+				2BF762511EA5FC4700CA9FD3 /* 单元测试.rtfd */,
+				2BF7624B1EA5FC1700CA9FD3 /* ios 预处理.rtfd */,
+				2BF762491EA5FC1300CA9FD3 /* PCH头文件.rtfd */,
+				2BF762471EA5FBDB00CA9FD3 /* cocoapods基本使用.rtf */,
+				2BF762431EA5FBC000CA9FD3 /* 插件使用二.rtfd */,
+				2BF762451EA5FBD500CA9FD3 /* 插件使用.rtfd */,
 				2BF762411EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd */,
 				2BF762291EA5F33700CA9FD3 /* Hello */,
 				2BF762281EA5F33700CA9FD3 /* Products */,
@@ -141,10 +168,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BF7624C1EA5FC1700CA9FD3 /* ios 预处理.rtfd in Resources */,
+				2BF762461EA5FBD500CA9FD3 /* 插件使用.rtfd in Resources */,
+				2BF7624E1EA5FC1B00CA9FD3 /* 深复制和浅复制.rtfd in Resources */,
+				2BF762501EA5FC2400CA9FD3 /* bootStrap10分钟快速搭建H5页面（1）.rtfd in Resources */,
 				2BF7623A1EA5F33700CA9FD3 /* LaunchScreen.storyboard in Resources */,
+				2BF762441EA5FBC000CA9FD3 /* 插件使用二.rtfd in Resources */,
 				2BF762421EA5FB4900CA9FD3 /* IOS应用UI测试.rtfd in Resources */,
+				2BF762541EA5FC5D00CA9FD3 /* git使用.rtfd in Resources */,
 				2BF762371EA5F33700CA9FD3 /* Assets.xcassets in Resources */,
+				2BF7624A1EA5FC1300CA9FD3 /* PCH头文件.rtfd in Resources */,
+				2BF762481EA5FBDB00CA9FD3 /* cocoapods基本使用.rtf in Resources */,
 				2BF762351EA5F33700CA9FD3 /* Main.storyboard in Resources */,
+				2BF762521EA5FC4700CA9FD3 /* 单元测试.rtfd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
